@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="todo_title_header">Todo Title</string>
+    <string name="todo_date_header">Updated At</string>
+    <string name="todo_list_error">Could not load todo list :(</string>
+    <string name="todo_reference">todo</string>
+    <string name="todo_preview_toolbar_title">Todo</string>
+</resources>
